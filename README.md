@@ -2,4 +2,12 @@
 
 ## Part 1
 
-Jupyter nb to pull list of follwer relationships
+Pull list of follwer relationships
+
+## Part 2
+
+Initial analysis of network
+
+## Part 3
+
+Deeper analysis of the centrality and layout of network
